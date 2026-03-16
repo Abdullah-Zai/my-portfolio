@@ -8,5 +8,5 @@ A simple Project to Learn Git.
 
 \## Goals
 
-Master Git Workflows.
+Master Git and GitHub.
 
