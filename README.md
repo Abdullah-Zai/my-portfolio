@@ -8,5 +8,7 @@ A simple Project to Learn Git.
 
 \## Goals
 
-Become DevOps Master
+<<<<<<< HEAD
+Master Git for DevOps!
+>>>>>>> main
 
